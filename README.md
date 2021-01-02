@@ -40,3 +40,6 @@ For Docker, the following environment variables are supported:
 
 You can create a .env file and set some of these variables.
 
+Link to Tutorial -->
+
+https://linuxlearn.org/sentry-setup
